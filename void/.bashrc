@@ -1,6 +1,11 @@
 alias s='sudo'
 alias svim='sudo vim'
 
+alias c="clear && history -c"
+alias sf="setfont "-d "
+
+
+
 alias x='sudo xbps-install -Suyv'
 alias xs='xbps-query -Rs '
 alias xr='sudo xbps-remove -fRoOv'
@@ -90,3 +95,4 @@ ex ()
 
 alias ls='ls --color=auto'
 PS1='/\W > \$ '
+
