@@ -2,7 +2,7 @@ alias s='sudo'
 alias svim='sudo vim'
 
 alias c="clear && history -c"
-alias sf="setfont "-d "
+alias sf="setfont -d "
 
 
 
